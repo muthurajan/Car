@@ -26,6 +26,9 @@
 		0039D1921AD3F899006A1B33 /* image6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0039D18A1AD3F899006A1B33 /* image6.jpeg */; };
 		0039D1931AD3F899006A1B33 /* image7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0039D18B1AD3F899006A1B33 /* image7.jpeg */; };
 		0039D1941AD3F899006A1B33 /* image8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0039D18C1AD3F899006A1B33 /* image8.jpg */; };
+		00727A9C1F45A20200C58165 /* car_bmw.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00727A991F45A20200C58165 /* car_bmw.jpg */; };
+		00727A9D1F45A20200C58165 /* car_bmw1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00727A9A1F45A20200C58165 /* car_bmw1.jpg */; };
+		00727A9E1F45A20200C58165 /* car_image_new.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00727A9B1F45A20200C58165 /* car_image_new.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +68,9 @@
 		0039D18A1AD3F899006A1B33 /* image6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image6.jpeg; sourceTree = "<group>"; };
 		0039D18B1AD3F899006A1B33 /* image7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image7.jpeg; sourceTree = "<group>"; };
 		0039D18C1AD3F899006A1B33 /* image8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image8.jpg; sourceTree = "<group>"; };
+		00727A991F45A20200C58165 /* car_bmw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = car_bmw.jpg; sourceTree = "<group>"; };
+		00727A9A1F45A20200C58165 /* car_bmw1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = car_bmw1.jpg; sourceTree = "<group>"; };
+		00727A9B1F45A20200C58165 /* car_image_new.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = car_image_new.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +157,9 @@
 			isa = PBXGroup;
 			children = (
 				0039D17F1AD3D242006A1B33 /* cars.json */,
+				00727A991F45A20200C58165 /* car_bmw.jpg */,
+				00727A9A1F45A20200C58165 /* car_bmw1.jpg */,
+				00727A9B1F45A20200C58165 /* car_image_new.jpeg */,
 				003505751AD540A600BB6CAA /* footer_banner.png */,
 				003505761AD540A600BB6CAA /* header_banner.png */,
 				0039D1851AD3F899006A1B33 /* image1.jpeg */,
@@ -246,11 +255,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				003505781AD540A600BB6CAA /* header_banner.png in Resources */,
+				00727A9E1F45A20200C58165 /* car_image_new.jpeg in Resources */,
+				00727A9C1F45A20200C58165 /* car_bmw.jpg in Resources */,
 				0039D1651AD3D220006A1B33 /* Main.storyboard in Resources */,
 				0039D16A1AD3D220006A1B33 /* LaunchScreen.xib in Resources */,
 				0039D18F1AD3F899006A1B33 /* image3.jpeg in Resources */,
 				003505771AD540A600BB6CAA /* footer_banner.png in Resources */,
 				0039D1931AD3F899006A1B33 /* image7.jpeg in Resources */,
+				00727A9D1F45A20200C58165 /* car_bmw1.jpg in Resources */,
 				0039D1941AD3F899006A1B33 /* image8.jpg in Resources */,
 				0039D18E1AD3F899006A1B33 /* image2.jpeg in Resources */,
 				0039D1801AD3D242006A1B33 /* cars.json in Resources */,
