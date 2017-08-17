@@ -21,7 +21,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     
-    appCarsArray = [[NSMutableArray alloc] init];
+    appCarsArray = [[NSMutableArray alloc] init];   //Adding dummy cars to this array.
     carDateArray = [[NSMutableArray alloc] init];
     
     [self getAllCars];
